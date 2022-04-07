@@ -1,8 +1,8 @@
-Decision 0001
+Decision 0002
 
 |Decision ID   |0001   |
 |---               |---|
-|In the context of |[#7](https://github.com/theHam97/SAGIT-test1/issues/7)  |
+|In the context of |#6 |
 |Facing            |   |
 |To achieve        |   |
 |We considered     |   |
