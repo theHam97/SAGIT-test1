@@ -1,0 +1,180 @@
+[33mcommit 1053ef37180a6df31a25bbaa2ed522c98b3e705f[m[33m ([m[1;36mHEAD -> [m[1;32mextra[m[33m, [m[1;31morigin/testing[m[33m, [m[1;31morigin/new_testing[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mtesting[m[33m, [m[1;32mnew_testing[m[33m, [m[1;32mnew[m[33m, [m[1;32mmain[m[33m)[m
+Author: Matthijs <matthijsham@gmail.com>
+Date:   Thu Apr 7 16:00:14 2022 +0200
+
+    some changes
+
+[33mcommit bded02c4f449971ecee12372e4a3952cec3cfb45[m
+Author: Matthijs <matthijsham@gmail.com>
+Date:   Thu Apr 7 15:58:22 2022 +0200
+
+    deleted several files
+
+[33mcommit 7abe374f5fb1b224f914084d2348a078e04e64a0[m
+Merge: c3cfbe1 c1ad6fc
+Author: Matthijs <matthijsham@gmail.com>
+Date:   Thu Apr 7 15:55:55 2022 +0200
+
+    Merge branch 'main' of github.com:theHam97/SAGIT-test1 into main
+
+[33mcommit c3cfbe120ed2fa5ec5247ed2aabf63b38d96adf6[m
+Author: Matthijs <matthijsham@gmail.com>
+Date:   Thu Apr 7 15:55:34 2022 +0200
+
+    first experiment with draw.io local
+
+[33mcommit c1ad6fc5ea083709121755a1c324672464fbd00f[m
+Author: Matthijs Ham <matthijsham@gmail.com>
+Date:   Thu Apr 7 15:50:26 2022 +0200
+
+    Update Untitled Diagram.drawio
+
+[33mcommit a105d9663e568fb41df8f1b8bdf8fae29829687b[m
+Author: Matthijs Ham <matthijsham@gmail.com>
+Date:   Thu Apr 7 15:50:04 2022 +0200
+
+    Added Untitled Diagram.drawio
+
+[33mcommit 1d31cf8a1b26ba5fab3db08aaf493206b0086b53[m
+Merge: 74b5f36 61cf29d
+Author: Matthijs Ham <matthijsham@gmail.com>
+Date:   Thu Apr 7 15:39:59 2022 +0200
+
+    Merge pull request #11 from theHam97/branch3
+    
+    Decision 0001
+    
+    |Decision ID   |0001   |
+    |---               |---|
+    |In the context of |[#7](https://github.com/theHam97/SAGIT-test1/issues/7)  |
+    |Facing            |   |
+    |To achieve        |   |
+    |We considered     |   |
+    |And decided       |   |
+    |Accepting         |   |
+
+[33mcommit 74b5f36ca99ad82d03b6e15cfbd705f6dbfc7c57[m
+Author: Matthijs <matthijsham@gmail.com>
+Date:   Thu Apr 7 15:38:02 2022 +0200
+
+    bonjour
+
+[33mcommit 61cf29db9ed6504e1b0a5cbb2f685c540181833b[m[33m ([m[1;31morigin/branch3[m[33m)[m
+Author: Matthijs <matthijsham@gmail.com>
+Date:   Thu Apr 7 15:34:38 2022 +0200
+
+    yeet meassage on main branch
+
+[33mcommit e70df13d87b91b50bb0c2462f3289f0eaa26a62d[m
+Merge: b573809 413a976
+Author: Matthijs Ham <matthijsham@gmail.com>
+Date:   Thu Apr 7 15:16:19 2022 +0200
+
+    Merge pull request #10 from theHam97/branch3
+    
+    As a local government, I want assurance that the no fraud can occur  #6
+
+[33mcommit 413a9761ceca0decde63d9763c85a5d389638397[m
+Author: Matthijs <matthijsham@gmail.com>
+Date:   Thu Apr 7 15:12:04 2022 +0200
+
+    added concern #6
+
+[33mcommit b5738099689c9e306d4f8d6f578678074156b0b5[m
+Merge: e6feb17 a09589a
+Author: Matthijs Ham <matthijsham@gmail.com>
+Date:   Thu Apr 7 15:05:15 2022 +0200
+
+    Merge pull request #8 from theHam97/branch2
+    
+    Decision 0001
+    
+    |Decision ID   |0001   |
+    |---               |---|
+    |In the context of |[#7](https://github.com/theHam97/SAGIT-test1/issues/7)  |
+    |Facing            |   |
+    |To achieve        |   |
+    |We considered     |   |
+    |And decided       |   |
+    |Accepting         |   |
+
+[33mcommit a09589a15a0f1f168108efa404b6be1e1f274d3d[m[33m ([m[1;32mbranch2[m[33m)[m
+Author: Matthijs <matthijsham@gmail.com>
+Date:   Thu Apr 7 15:01:35 2022 +0200
+
+    more decisions
+
+[33mcommit e6feb1740cb6de3b33b72f9b5b9c1893a49b4cd2[m
+Author: Matthijs <matthijsham@gmail.com>
+Date:   Thu Apr 7 14:56:15 2022 +0200
+
+    added a bright yeet
+
+[33mcommit 5f5940eea2f5baa154d54740a7ad2514ed65f008[m
+Author: Matthijs <matthijsham@gmail.com>
+Date:   Thu Apr 7 14:44:11 2022 +0200
+
+    added features to satisfy concern #2
+
+[33mcommit 5572100cd7d77e7a191d7f92af16736abf734871[m
+Author: Matthijs <matthijsham@gmail.com>
+Date:   Wed Apr 6 15:42:25 2022 +0200
+
+    Decision 0001
+    
+    |Decision ID   |0001   |
+    |---               |---|
+    |In the context of |[#7](https://github.com/theHam97/SAGIT-test1/issues/7)  |
+    |Facing            |   |
+    |To achieve        |   |
+    |We considered     |   |
+    |And decided       |   |
+    |Accepting         |   |
+
+[33mcommit 03a7e51f737285f068c55b59f3fabe85b37799b9[m
+Author: Matthijs Ham <matthijsham@gmail.com>
+Date:   Wed Apr 6 15:31:59 2022 +0200
+
+    added link to issue
+
+[33mcommit 0acac6c80fdc3c364ab66ff7c75b3da123f8383e[m
+Author: Matthijs <matthijsham@gmail.com>
+Date:   Wed Apr 6 15:17:26 2022 +0200
+
+    add issue marker
+
+[33mcommit 01c57866d9d5514973204d4b99f6ccf5ecbb4e11[m
+Author: Matthijs <matthijsham@gmail.com>
+Date:   Wed Apr 6 15:12:50 2022 +0200
+
+    fixed bug in decision template table
+
+[33mcommit 92bb6320d0d8419b1dde0c8549ecf86a67f33d9b[m
+Author: Matthijs <matthijsham@gmail.com>
+Date:   Wed Apr 6 15:09:52 2022 +0200
+
+    added new folder named decisions, containing initial decision template
+
+[33mcommit 141afd42c443314263f16783185a567de84a0c18[m
+Author: Matthijs <matthijsham@gmail.com>
+Date:   Wed Apr 6 14:35:42 2022 +0200
+
+    Implemented solution for concern #7
+
+[33mcommit 9854f1bbe172e547b991231916e23d89a109cbbb[m
+Author: Matthijs <matthijsham@gmail.com>
+Date:   Wed Apr 6 14:11:09 2022 +0200
+
+    Initial commit of first SA elements
+
+[33mcommit 515e35cb4f5a1b82fe8fc0ce3b2a2f274e90366d[m
+Author: Matthijs Ham <matthijsham@gmail.com>
+Date:   Wed Mar 30 16:24:35 2022 +0200
+
+    Added short description for readme.md
+
+[33mcommit 4e32a03ab8edef516b6130247270dd3273820551[m
+Author: Matthijs Ham <matthijsham@gmail.com>
+Date:   Wed Mar 30 16:21:31 2022 +0200
+
+    Initial commit
