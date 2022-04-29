@@ -6,3 +6,5 @@ SAGIT (Software Architecture GIT) is the name for a research idea that aims to c
 More information will follow :)
 
 This is a hotfix
+
+This is a coldfix
